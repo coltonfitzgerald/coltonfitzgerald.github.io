@@ -46,15 +46,18 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "../_sass/base",
-		"../_sass/mixins",
-        "../_sass/layout",
-        "../_sass/syntax-highlighting",
-        "../_sass/codyhouse",
-		"../_sass/home",
-        "../_sass/portfolio"
+        "base",
+		"mixins",
+        "layout",
+        "syntax-highlighting",
+        "codyhouse",
+		"home",
+        "portfolio"
 ;
 
-.social-media-list li {
-    display: inline-block;
+.social-media-list {
+	margin-bottom: 0;
+	li {
+    	display: inline-block;
+	}
 }
