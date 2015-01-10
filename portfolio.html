@@ -1,0 +1,44 @@
+---
+layout: default
+title: Portfolio
+permalink: /portfolio/
+---
+
+<div class="portfolio container">
+
+  <h1 class="page-heading">Portfolio</h1>
+  
+  <div class="controls">
+      <label>Filter:</label>
+
+      <button class="filter waves-effect waves-light btn red darken-4" data-filter="all">All</button>
+      <button class="filter waves-effect waves-light btn red darken-4" data-filter=".website">
+      <i class="mdi-hardware-laptop left"></i>Websites</button>
+      <button class="filter waves-effect waves-light btn red darken-4" data-filter=".category-2">
+      <i class="mdi-av-videocam left"></i>Videos</button>
+    </div>
+
+  <ul class="portfolio-list row">
+    {% for item in site.portfolio %}
+        <li class="col s12 m6 l4 mix {{ item.categories }}">
+            <!--<span class="portfolio-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
+            <h2>
+                <a class="portfolio-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+            </h2>-->
+            <div class="card">
+               <div class="card-image">
+                  <img src="http://materializecss.com/images/sample-1.jpg">
+                  <a class="card-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+               </div>
+                <div class="card-action">
+                  <a href="{{ item.finalproject }}">Final Project</a>
+                  <a href="{{ item.url | prepend: site.baseurl }}" class="right">Details</a>
+                </div>
+              </div>
+        </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
