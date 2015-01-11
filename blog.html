@@ -4,22 +4,29 @@ title: Blog
 permalink: /blog/
 ---
 
-<div class="home">
+<div class="blog container">
 
-  <h1 class="page-heading">Posts</h1>
+	<h1 class="header">Read all of my nonsense about code, music and apps</h1>
+	
+	{% for post in site.posts %}
+	<div class="col s12 m8 offset-m2 l6 offset-l3">
+		<div class="card-panel grey lighten-5 z-depth-1">
+			<div class="row">
+				<div class="col s10 offset-s1">
+					<span class="black-text">
+			<h3 class="header"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+			<time>{{ post.date | date: "%b %-d, %Y" }}</time>
+			  {{ post.excerpt }}
+		  </span>
+					<a href="{{ post.url }}" class="waves-effect waves-light btn-large red darken-4">Continue Reading</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	{% endfor %}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+	<div>
+		<p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></p>
+	</div>
 
 </div>

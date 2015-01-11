@@ -1,6 +1,35 @@
-.mix {
+.mix,
+.hidden {
     display: none;
 }
 #instafeed > img {
 	padding: 0;
+}
+
+.browser {
+	background-color: #363636;
+	height: 36px;
+	width: 100%;
+	border-radius: 8px;
+	border-bottom-right-radius: initial;
+	border-bottom-left-radius: initial;
+	& > div {
+		margin-right: auto;
+		margin-left: 3px;
+	}
+	.red-btn, .yellow-btn, .green-btn {
+		border-radius: 100%;
+		width: 9px;
+		height: 9px;
+		margin-left: 9px;
+	}
+	.red-btn {
+		background-color: #d35400;
+	}
+	.yellow-btn {
+		background-color: #f39c12;	
+	}
+	.green-btn {
+		background-color: #2ecc71;	
+	}
 }

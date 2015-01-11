@@ -1,5 +1,5 @@
 <header>
-    <nav class="site-header red darken-4">
+    <nav class="site-header red darken-4 hide-on-med-and-down">
         <div class="nav-wrapper">
             <div class="col s12">
                 <ul class="side-nav">
@@ -44,13 +44,21 @@
                         </li>
 						{% endif %} {% if site.linkedin %}
                         <li>
-                        	<a href="www.linkedin.com/in/{{ site.linkedin }}">
+                        	<a href="http://www.linkedin.com/in/{{ site.linkedin }}">
                         		<svg class="mdi- left" height="18" width="22">
                         			<use xlink:href="#shape-linkedin"/>
                         		</svg>
                         	Linkedin</a>
                         </li>
-						{% endif %}
+						{% endif %} {% if site.github_username %}
+                   		<li>
+               				<a href="http://github.com/{{ site.github_username }}">
+               					<svg class="mdi- left" height="18" width="18">
+               						<use xlink:href="#shape-github"/>
+               					</svg>
+               				Github</a>
+               			</li>
+					   {% endif %}
                     </ul>
                 </ul>
             </div>
@@ -66,8 +74,9 @@
         </div>
           </form>-->
             <ul id="nav-mobile" class="right side-nav">
-                {% for page in site.pages %} {% if page.title %}
-                <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                {% for page in site.pages %} {% if page.title != "Home" %}
+                <li>
+                	<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
                 {% endif %} {% endfor %}
             </ul>

@@ -682,6 +682,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/blog\/2015\/01\/01\/starting-the-year-off-right.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/2015\/01\/01\/starting-the-year-off-right.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/blog\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -691,45 +700,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/blog\/jekyll\/update\/2014\/12\/28\/welcome-to-jekyll.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/jekyll\/update\/2014\/12\/28\/welcome-to-jekyll.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/personal\/2015\/01\/01\/starting-the-year-off-right.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/personal\/2015\/01\/01\/starting-the-year-off-right.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/css\/main.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/css\/main.scss",
-		"outputAbbreviatedPath": "\/_site\/css\/main.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/_site\/css\/materialize.css": {
+	"\/_site\/css\/main.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/css\/materialize.css",
+		"inputAbbreviatedPath": "\/_site\/css\/main.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -741,6 +716,61 @@
 		"initialSize": 1.00228e+06,
 		"inputAbbreviatedPath": "\/_site\/img\/logo.png",
 		"outputAbbreviatedPath": "\/_site\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/c4-program.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 611110,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/c4-program.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/c4-program.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/chef-linda.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 520671,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/chef-linda.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/chef-linda.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/chef-linda2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 186847,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/chef-linda2.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/chef-linda2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/chef-linda3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 193440,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/chef-linda3.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/chef-linda3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/portfolio\/mynutritionadvisor-articles.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 711779,
+		"inputAbbreviatedPath": "\/_site\/img\/portfolio\/mynutritionadvisor-articles.png",
+		"outputAbbreviatedPath": "\/_site\/img\/portfolio\/mynutritionadvisor-articles.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1062,6 +1092,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_site\/portfolio\/2014-12-28-c4-program\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/portfolio\/2014-12-28-c4-program\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/portfolio\/2014-12-28-chef-linda\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1071,38 +1110,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/portfolio\/2015-1-2-starting-the-year-off-right%20copy%202\/index.html": {
+	"\/_site\/portfolio\/2014-12-28-mynutritionadvisor-articles\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/portfolio\/2015-1-2-starting-the-year-off-right%20copy%202\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/portfolio\/2015-1-2-starting-the-year-off-right%20copy%203\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/portfolio\/2015-1-2-starting-the-year-off-right%20copy%203\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/portfolio\/2015-1-2-starting-the-year-off-right%20copy\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/portfolio\/2015-1-2-starting-the-year-off-right%20copy\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/portfolio\/2015-1-2-starting-the-year-off-right\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/portfolio\/2015-1-2-starting-the-year-off-right\/index.html",
+		"inputAbbreviatedPath": "\/_site\/portfolio\/2014-12-28-mynutritionadvisor-articles\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1159,6 +1171,61 @@
 		"initialSize": 1.00228e+06,
 		"inputAbbreviatedPath": "\/img\/logo.png",
 		"outputAbbreviatedPath": "\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/c4-program.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 611110,
+		"inputAbbreviatedPath": "\/img\/portfolio\/c4-program.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/c4-program.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/chef-linda.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 520671,
+		"inputAbbreviatedPath": "\/img\/portfolio\/chef-linda.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/chef-linda.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/chef-linda2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 186847,
+		"inputAbbreviatedPath": "\/img\/portfolio\/chef-linda2.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/chef-linda2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/chef-linda3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 193440,
+		"inputAbbreviatedPath": "\/img\/portfolio\/chef-linda3.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/chef-linda3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/mynutritionadvisor-articles.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 711779,
+		"inputAbbreviatedPath": "\/img\/portfolio\/mynutritionadvisor-articles.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/mynutritionadvisor-articles.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

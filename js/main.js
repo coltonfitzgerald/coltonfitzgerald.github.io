@@ -2,7 +2,6 @@ jQuery(document).ready(function ($) {
 	$('.button-collapse').sideNav();
 	$('.parallax').parallax();
 	$(".dropdown-button").dropdown();
-	$('.portfolio-list').mixItUp();
 	//set animation timing
 	var animationDelay = 2500,
 		//loading bar effect

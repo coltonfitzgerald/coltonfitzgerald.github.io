@@ -1,0 +1,25 @@
+/* TEAM */
+
+Web Developer: Colton Fitzgerald
+Site: coltonfitzgerald.me
+Email: colton [at] coltonfitzgerald.me
+Twitter: @colton_fitz
+Location: Las Vegas, NV
+
+Web Designer: Nicole Overman
+Site: nicoleoverman.me
+Email: nicole [at] nicoleoverman.me
+Twitter: @nicoolee_ann
+Location: Las Vegas, NV
+
+/* THANKS */
+
+Cody House: codyhouse.co
+Materialize: materializecss.com
+
+
+/* SITE */
+
+  Standards: HTML5, CSS3
+  Components: jQuery, Sass, Animate.css, Modernizer, MixitUp, 
+  Software: Brackets.io, Git, Transmit, Google Chrome, Adobe Illustrator, Codekit, Jekyll
