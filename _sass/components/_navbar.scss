@@ -35,6 +35,13 @@ nav {
     display: inline-block;
     font-size: 2.1rem;
     padding: 0;
+	text-transform: uppercase;
+	letter-spacing:.025px;
+	
+	.valign-wrapper {
+		height: 86px;
+		display: inline-block;
+	}
     
     @media #{$medium-and-down} {
       left: 0;

@@ -1,7 +1,6 @@
 <svg style="display: none;">
-	<symbol viewbox="0 0 21 21" id="shape-decoration-circle">
-		<title>decoration-circle</title>
-		<circle fill="none" stroke-width="3" stroke-miterlimit="10" cx="10.5" cy="10.5" r="9" />
+	<symbol viewBox="0 0 113 113" id="shape-logo">
+		<path d="M37.125 38.089l-4.666-8.916-32.25 21.5v6l32.583 20.25 4.333-8.666-22.5-15.209zM75.875 38.089l4.666-8.916 32.25 21.5v6l-32.584 20.25-4.332-8.666 22.5-15.209zM66.959 18.577l7.5 4.679-28.334 71.167-8-4.333z"/>
 	</symbol>
 	<symbol viewbox="0 0 56.693 56.693" id="shape-google-plus">
 		<title>Google+</title>

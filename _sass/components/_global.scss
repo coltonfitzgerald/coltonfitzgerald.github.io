@@ -257,11 +257,14 @@ footer {
 	}
 	.social-media-list {
 		margin-bottom: 0;
+		max-height: 50px;
 		li {
 			display: inline-block;
-			border-radius: .25em;
+			a {
+				border-radius: .25em;
 			padding: .5em;
 			margin-top: 6px;
+			}
 			&.gplus:hover {
 				background-color: #df4a32;	
 			}
