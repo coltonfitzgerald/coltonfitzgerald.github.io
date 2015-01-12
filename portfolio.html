@@ -34,9 +34,9 @@ permalink: /portfolio/
               </div>
               	{% endif %}
                <div class="card-image">
-               	<a class="card-title black-text" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+               	<a class="card-title black-text">{{ item.title }}</a>
 				   {% if item.image %}
-                  <img class="portfolio-img" src="{{ site.url }}{{ item.image }}">
+                  <img class="portfolio-img" src="{{ site.url }}{{ item.image }}" alt="{{ item.title }}">
 				   {% endif %} {% if item.video %}
               		<div class="video-container">
               			<iframe width="355" height="191" src="//www.youtube.com/embed/{{ item.video }}" allowfullscreen></iframe>
