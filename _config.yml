@@ -4,7 +4,7 @@ email: colton@coltonfitzgerald.me
 description: > # this means to ignore newlines until "baseurl:"
   I'm a Web Developer based out of Las Vegas, NV. I build responsive, modern websites that fit today's needs.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://coltonfitzgerald.me" # the base hostname & protocol for your site
+url: "http://localhost:4000" # the base hostname & protocol for your site
 twitter_username:  colton_fitz
 github_username:  rockincolton
 google_plus:  ColtonFitzgerald
