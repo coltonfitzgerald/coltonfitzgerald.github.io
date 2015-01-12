@@ -4,12 +4,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | Colton Fitzgerald</title>
+    <!-- Open Graph -->
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
-    <meta name="application-name" content="Colton Fitzgerald"/>
     <meta property="og:site_name" content="Colton Fitzgerald"/>
-	{% if page.is_post? %}
+	{% if layout == 'post' %}
+  	<meta property="og:type" content="article"/>
    	<meta property="article:author" content="Colton Fitzgerald"/>
+   	<meta property="article:published_time" content="{{ post.date }}"/>
 	{% endif %}
+   
+    <meta name="application-name" content="Colton Fitzgerald"/>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 

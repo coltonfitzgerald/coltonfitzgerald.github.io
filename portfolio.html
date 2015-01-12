@@ -12,7 +12,7 @@ permalink: /portfolio/
       <button class="filter waves-effect waves-light btn red darken-4" data-filter="all">All</button>
       <button class="filter waves-effect waves-light btn red darken-4" data-filter=".website">
       <i class="mdi-hardware-laptop left"></i>Websites</button>
-      <button class="filter waves-effect waves-light btn red darken-4" data-filter=".category-2">
+      <button class="filter waves-effect waves-light btn red darken-4" data-filter=".video">
       <i class="mdi-av-videocam left"></i>Videos</button>
    </div>
 
@@ -33,14 +33,18 @@ permalink: /portfolio/
 				</div>
               </div>
               	{% endif %}
-               <div class="card-image" style="overflow: scroll; height: 191px;">
+               <div class="card-image">
+               	<a class="card-title black-text" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
 				   {% if item.image %}
                   <img class="portfolio-img" src="{{ site.url }}{{ item.image }}">
+				   {% endif %} {% if item.video %}
+              		<div class="video-container">
+              			<iframe width="355" height="191" src="//www.youtube.com/embed/{{ item.video }}" allowfullscreen></iframe>
+              		</div>
 				   {% endif %}
-                  <a class="card-title black-text" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
                </div>
                 <div class="card-action">
-                  <a href="{{ item.finalproject }}">View Website</a>
+                  <a href="{{ item.finalproject }}">View {% if item.image %}Website{% endif %}{% if item.video %}Video{% endif %}</a>
                 </div>
               </div>
         </li>

@@ -3,6 +3,7 @@ layout: post
 title:  "Starting the Year Off Right"
 date:   2015-1-2 2:50:01
 categories: blog
+parallax_image:  starting-the-year-off-right.jpg
 ---
 Alright, so it's that time of the year again where everyone declares "goals" that last a week or two. This year, I thought I'd give a couple tips / apps that could help out with your hopefully sucsessful goals. Here's a couple of my favorite things that help me work:
 
@@ -26,7 +27,7 @@ This app is amazing. It takes the already awesome Spotlight app and turns it int
 
 ### Bartender (_$15_) - [link](http://www.macbartender.com)
 
-Just fucking buy it. There are no excuses for this one.  
+Just buy it. There are no excuses for this one.  
 It adds an icon to your menu bar so that you can organize all of your menu bar items. For only $15, you really have no excuse to get this.  
 (_PS: There is a 15 day free trial_)
 

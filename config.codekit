@@ -718,11 +718,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/portfolio\/2014-12-28-itmeetshiphop\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/portfolio\/2014-12-28-itmeetshiphop\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/portfolio\/2014-12-28-mynutritionadvisor-articles\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/portfolio\/2014-12-28-mynutritionadvisor-articles\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/portfolio\/2014-12-28-spicy-creamy-greens-protein\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/portfolio\/2014-12-28-spicy-creamy-greens-protein\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -754,7 +772,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-114x114.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-120x120.png": {
 		"fileType": 32768,
@@ -765,7 +783,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-120x120.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-144x144.png": {
 		"fileType": 32768,
@@ -776,7 +794,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-144x144.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-152x152.png": {
 		"fileType": 32768,
@@ -787,7 +805,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-152x152.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-180x180.png": {
 		"fileType": 32768,
@@ -798,7 +816,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-180x180.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-57x57.png": {
 		"fileType": 32768,
@@ -809,7 +827,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-57x57.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-60x60.png": {
 		"fileType": 32768,
@@ -820,7 +838,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-60x60.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-72x72.png": {
 		"fileType": 32768,
@@ -831,7 +849,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-72x72.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-76x76.png": {
 		"fileType": 32768,
@@ -842,7 +860,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-76x76.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-precomposed.png": {
 		"fileType": 32768,
@@ -853,7 +871,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon.png": {
 		"fileType": 32768,
@@ -864,7 +882,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/blog.html": {
 		"fileType": 8192,
@@ -902,7 +920,7 @@
 		"outputAbbreviatedPath": "\/favicon-160x160.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/favicon-16x16.png": {
 		"fileType": 32768,
@@ -913,7 +931,7 @@
 		"outputAbbreviatedPath": "\/favicon-16x16.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/favicon-192x192.png": {
 		"fileType": 32768,
@@ -924,7 +942,7 @@
 		"outputAbbreviatedPath": "\/favicon-192x192.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/favicon-32x32.png": {
 		"fileType": 32768,
@@ -935,7 +953,7 @@
 		"outputAbbreviatedPath": "\/favicon-32x32.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/favicon-96x96.png": {
 		"fileType": 32768,
@@ -946,18 +964,7 @@
 		"outputAbbreviatedPath": "\/favicon-96x96.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.00228e+06,
-		"inputAbbreviatedPath": "\/img\/logo.png",
-		"outputAbbreviatedPath": "\/img\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/portfolio\/c4-program.png": {
 		"fileType": 32768,
@@ -968,7 +975,7 @@
 		"outputAbbreviatedPath": "\/img\/portfolio\/c4-program.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/portfolio\/chef-linda.png": {
 		"fileType": 32768,
@@ -979,29 +986,18 @@
 		"outputAbbreviatedPath": "\/img\/portfolio\/chef-linda.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/img\/portfolio\/chef-linda2.png": {
+	"\/img\/portfolio\/itmeetshiphop.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 186847,
-		"inputAbbreviatedPath": "\/img\/portfolio\/chef-linda2.png",
-		"outputAbbreviatedPath": "\/img\/portfolio\/chef-linda2.png",
+		"initialSize": 759239,
+		"inputAbbreviatedPath": "\/img\/portfolio\/itmeetshiphop.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/itmeetshiphop.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/portfolio\/chef-linda3.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 193440,
-		"inputAbbreviatedPath": "\/img\/portfolio\/chef-linda3.png",
-		"outputAbbreviatedPath": "\/img\/portfolio\/chef-linda3.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/portfolio\/mynutritionadvisor-articles.png": {
 		"fileType": 32768,
@@ -1012,7 +1008,18 @@
 		"outputAbbreviatedPath": "\/img\/portfolio\/mynutritionadvisor-articles.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/img\/posts\/starting-the-year-off-right.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 345079,
+		"inputAbbreviatedPath": "\/img\/posts\/starting-the-year-off-right.jpg",
+		"outputAbbreviatedPath": "\/img\/posts\/starting-the-year-off-right.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/img\/posts\/subtasks@2x.png": {
 		"fileType": 32768,
@@ -1023,7 +1030,7 @@
 		"outputAbbreviatedPath": "\/img\/posts\/subtasks@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/school\/bouncing-ball.png": {
 		"fileType": 32768,
@@ -1032,6 +1039,17 @@
 		"initialSize": 40893,
 		"inputAbbreviatedPath": "\/img\/school\/bouncing-ball.png",
 		"outputAbbreviatedPath": "\/img\/school\/bouncing-ball.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/school\/google-infographic.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61532,
+		"inputAbbreviatedPath": "\/img\/school\/google-infographic.png",
+		"outputAbbreviatedPath": "\/img\/school\/google-infographic.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1045,6 +1063,17 @@
 		"outputAbbreviatedPath": "\/img\/school\/logo-project.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/school\/portfolio.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 251759,
+		"inputAbbreviatedPath": "\/img\/school\/portfolio.png",
+		"outputAbbreviatedPath": "\/img\/school\/portfolio.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
 	"\/img\/school\/self-portrait.png": {
@@ -1056,7 +1085,29 @@
 		"outputAbbreviatedPath": "\/img\/school\/self-portrait.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/img\/school\/skills-usa-bulletin-board.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223491,
+		"inputAbbreviatedPath": "\/img\/school\/skills-usa-bulletin-board.png",
+		"outputAbbreviatedPath": "\/img\/school\/skills-usa-bulletin-board.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/school\/skills-usa-web-design.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163494,
+		"inputAbbreviatedPath": "\/img\/school\/skills-usa-web-design.png",
+		"outputAbbreviatedPath": "\/img\/school\/skills-usa-web-design.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -1373,7 +1424,7 @@
 		"outputAbbreviatedPath": "\/mstile-144x144.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/mstile-150x150.png": {
 		"fileType": 32768,
@@ -1384,7 +1435,7 @@
 		"outputAbbreviatedPath": "\/mstile-150x150.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/mstile-310x150.png": {
 		"fileType": 32768,
@@ -1395,7 +1446,7 @@
 		"outputAbbreviatedPath": "\/mstile-310x150.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/mstile-310x310.png": {
 		"fileType": 32768,
@@ -1406,7 +1457,7 @@
 		"outputAbbreviatedPath": "\/mstile-310x310.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/mstile-70x70.png": {
 		"fileType": 32768,
@@ -1417,7 +1468,7 @@
 		"outputAbbreviatedPath": "\/mstile-70x70.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/portfolio.html": {
 		"fileType": 8192,
