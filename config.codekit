@@ -1065,6 +1065,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/img\/school\/nicole-caricature.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61303,
+		"inputAbbreviatedPath": "\/img\/school\/nicole-caricature.jpg",
+		"outputAbbreviatedPath": "\/img\/school\/nicole-caricature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/school\/portfolio.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1108,6 +1119,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/img\/school\/warhol.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65931,
+		"inputAbbreviatedPath": "\/img\/school\/warhol.png",
+		"outputAbbreviatedPath": "\/img\/school\/warhol.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/index.html": {
 		"fileType": 8192,
