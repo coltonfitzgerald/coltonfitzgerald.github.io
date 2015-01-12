@@ -1,6 +1,6 @@
 <footer class="site-footer grey darken-3 footer-copyright">
     <div class="footer-copyright">
-        <div class="container">&copy; <time class="year"></time> Colton Fitzgerald
+        <div class="container">&copy; <span class="year"></span> Colton Fitzgerald
                    <ul class="social-media-list right">
 						{% if site.google_plus %}
                         <li class="gplus">
@@ -63,7 +63,7 @@
 <script>$('.portfolio-list').mixItUp();</script>
 {% endif %}
 <script src="{{ site.url }}/js/main.min.js"></script>
-{% if page.title == "About" %}
+{% if page.title == "Home" %}
 <script src="{{ site.url }}/js/instafeed.min.js"></script>
 {% assign url = '{{image}}' %}
 {% assign words = '{{caption}}' %}

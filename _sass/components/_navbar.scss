@@ -42,6 +42,9 @@ nav {
 		height: 86px;
 		display: inline-block;
 	}
+	span {
+		vertical-align: top;
+	}
     
     @media #{$medium-and-down} {
       left: 0;

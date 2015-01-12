@@ -1,92 +1,91 @@
 <header>
-    <nav class="site-header red darken-4 hide-on-med-and-down">
-        <div class="nav-wrapper">
-            <div class="col s12">
-                <ul class="side-nav">
-                    <li>
-                        <a href="mailto:colton@coltonfitzgerald.me" class="white-text">
-                            <i class="small mdi-content-mail left"></i>
-                            colton@coltonfitzgerald.me
-                        </a>
-                    </li>
-                    <li>
-                        <a class="dropdown-button white-text" href="#!" data-activates="dropdown1">
-                            <i class="mdi-social-share left"></i>
-                            Follow Me
-                            <i class="mdi-navigation-arrow-drop-down right"></i>
-                        </a>
-                    </li>
-                    <!-- Dropdown Structure -->
-                    <ul id="dropdown1" class="dropdown-content">
+	<nav class="site-header red darken-4 hide-on-med-and-down">
+		<div class="nav-wrapper">
+			<div class="col s12">
+				<ul class="side-nav">
+					<li>
+						<a href="mailto:colton@coltonfitzgerald.me" class="white-text">
+							<i class="small mdi-content-mail left"></i>
+							colton@coltonfitzgerald.me
+						</a>
+					</li>
+					<li>
+						<a class="dropdown-button white-text" href="#!" data-activates="dropdown1">
+							<i class="mdi-social-share left"></i>
+							Follow Me
+							<i class="mdi-navigation-arrow-drop-down right"></i>
+						</a>
+					</li>
+					<!-- Dropdown Structure -->
+					<ul id="dropdown1" class="dropdown-content">
 						{% if site.google_plus %}
-                        <li>
-                        	<a href="https://plus.google.com/+{{ site.google_plus }}">
+						<li>
+							<a href="https://plus.google.com/+{{ site.google_plus }}">
 								<svg class="mdi- left" height="18" width="22">
-								  <use xlink:href="#shape-google-plus" />
+									<use xlink:href="#shape-google-plus" />
 								</svg>Google+
-                       		</a>
-                        </li>
+							</a>
+						</li>
 						{% endif %} {% if site.twitter_username %}
-                        <li>
-                            <a href="https://twitter.com/{{ site.twitter_username }}">
+						<li>
+							<a href="https://twitter.com/{{ site.twitter_username }}">
 								<svg class="mdi- left" height="18" width="22">
 									<use xlink:href="#shape-twitter" />
 								</svg>
-                            	Twitter</a>
-                        </li>
+								Twitter</a>
+						</li>
 						{% endif %} {% if site.instagram %}
-                        <li>
-                            <a href="http://instagram.com/{{ site.instagram }}">
-                            	<svg class="mdi- left" height="18" width="22">
-                            		<use xlink:href="#shape-instagram"/>
-                            	</svg>
-                            Instagram</a>
-                        </li>
+						<li>
+							<a href="http://instagram.com/{{ site.instagram }}">
+								<svg class="mdi- left" height="18" width="22">
+									<use xlink:href="#shape-instagram" />
+								</svg>
+								Instagram</a>
+						</li>
 						{% endif %} {% if site.linkedin %}
-                        <li>
-                        	<a href="http://www.linkedin.com/in/{{ site.linkedin }}">
-                        		<svg class="mdi- left" height="18" width="22">
-                        			<use xlink:href="#shape-linkedin"/>
-                        		</svg>
-                        	Linkedin</a>
-                        </li>
+						<li>
+							<a href="http://www.linkedin.com/in/{{ site.linkedin }}">
+								<svg class="mdi- left" height="18" width="22">
+									<use xlink:href="#shape-linkedin" />
+								</svg>
+								Linkedin</a>
+						</li>
 						{% endif %} {% if site.github_username %}
-                   		<li>
-               				<a href="http://github.com/{{ site.github_username }}">
-               					<svg class="mdi- left" height="18" width="18">
-               						<use xlink:href="#shape-github"/>
-               					</svg>
-               				Github</a>
-               			</li>
-					   {% endif %}
-                    </ul>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <nav class="site-navigation" role="navigation">
-        <div class="nav-wrapper container">
-            <a href="{{ site.url }}" class="brand-logo tk-raleway">
-            <div class="valign-wrapper">
-            	<svg height="25" width="37" class="mdi-">
-            		<use xlink:href="#shape-logo"/>
-            	</svg>
+						<li>
+							<a href="http://github.com/{{ site.github_username }}">
+								<svg class="mdi- left" height="18" width="18">
+									<use xlink:href="#shape-github" />
+								</svg>
+								Github</a>
+						</li>
+						{% endif %}
+					</ul>
+				</ul>
 			</div>
-            Colton Fitzgerald</a>
-            <!--<form>
+		</div>
+	</nav>
+	<nav class="site-navigation" role="navigation">
+		<div class="nav-wrapper container">
+			<a href="{{ site.url }}" class="brand-logo tk-raleway">
+				<svg height="25" width="37" class="valign-wrapper">
+					<use xlink:href="#shape-logo" />
+				</svg>
+				<span>Colton Fitzgerald</span>
+			</a>
+			<!--<form>
         <div class="input-field col s12">
           <input id="search" type="text" required>
           <label for="search"><i class="mdi-action-search"></i></label>
         </div>
           </form>-->
-            <ul id="nav-mobile" class="right side-nav">
-                {% for page in site.pages %} {% if page.title != "Home" %}
-                <li>
-                	<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                </li>
-                {% endif %} {% endfor %}
-            </ul>
-            <a class="button-collapse" href="#" data-activates="nav-mobile"><i class="mdi-navigation-menu"></i></a>
-        </div>
-    </nav>
+			<ul id="nav-mobile" class="right side-nav">
+				{% for page in site.pages %} {% if page.title != "Home" %}
+				<li>
+					<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+				</li>
+				{% endif %} {% endfor %}
+			</ul>
+			<a class="button-collapse" href="#" data-activates="nav-mobile"><i class="mdi-navigation-menu"></i></a>
+		</div>
+	</nav>
 </header>
