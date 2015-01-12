@@ -49,3 +49,6 @@ SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png)$ no-gzip
                 Header unset ETag
                 Header unset Last-Modified
 </IfModule>
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://coltonfitzgerald.me/$1 [R,L]
