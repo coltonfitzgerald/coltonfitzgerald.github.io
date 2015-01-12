@@ -4,6 +4,7 @@ title:  "Starting the Year Off Right"
 date:   2015-1-2 2:50:01
 categories: blog
 parallax_image:  starting-the-year-off-right.jpg
+parallax_alt:  man using computer
 ---
 Alright, so it's that time of the year again where everyone declares "goals" that last a week or two. This year, I thought I'd give a couple tips / apps that could help out with your hopefully sucsessful goals. Here's a couple of my favorite things that help me work:
 
