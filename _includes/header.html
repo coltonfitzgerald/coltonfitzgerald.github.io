@@ -79,7 +79,7 @@
         </div>
           </form>-->
 			<ul id="nav-mobile" class="right side-nav">
-				{% for page in site.pages %} {% if page.title != "Home" %}
+				{% for page in site.pages %} {% if page.title != "Home" and page.title != "School" %}
 				<li>
 					<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
 				</li>
