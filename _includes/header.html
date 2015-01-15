@@ -79,11 +79,11 @@
         </div>
           </form>-->
 			<ul id="nav-mobile" class="right side-nav">
-				{% for page in site.pages %} {% if page.title != "Home" and page.title != "School" %}
+				{% for page in site.pages %} {% if page.title != "Home" %} {% if page.title != "School" %}
 				<li>
 					<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
 				</li>
-				{% endif %} {% endfor %}
+				{% endif %} {% endif %} {% endfor %}
 			</ul>
 			<a class="button-collapse" href="#" data-activates="nav-mobile"><i class="mdi-navigation-menu"></i></a>
 		</div>
