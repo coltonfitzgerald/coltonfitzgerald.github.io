@@ -11,6 +11,7 @@ google_plus:  ColtonFitzgerald
 instagram:  fitzgeraldcolton
 linkedin:  coltonfitzgerald
 highlighter:  pygments
+exclude: [node_modules, package.json, gruntfile.js]
 collections:
   portfolio:
     output: true
