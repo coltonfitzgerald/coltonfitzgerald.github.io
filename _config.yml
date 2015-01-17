@@ -11,7 +11,7 @@ google_plus:  ColtonFitzgerald
 instagram:  fitzgeraldcolton
 linkedin:  coltonfitzgerald
 highlighter:  pygments
-exclude: [node_modules, package.json, gruntfile.js, scss-linst.log, npm-debug.log]
+exclude: [node_modules, package.json, gruntfile.js, scss-linst.log, npm-debug.log, .git]
 collections:
   portfolio:
     output: true

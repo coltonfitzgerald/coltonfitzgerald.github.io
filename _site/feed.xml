@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Colton Fitzgerald</title>
-    <description>I&#39;m a Web Developer based out of Las Vegas, NV. I build responsive, modern websites that fit today&#39;s needs.
-</description>
-    <link>https://coltonfitzgerald.me/</link>
-    <atom:link href="https://coltonfitzgerald.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Jan 2015 10:17:19 -0800</pubDate>
-    <lastBuildDate>Fri, 16 Jan 2015 10:17:19 -0800</lastBuildDate>
+    <title></title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 16 Jan 2015 10:18:54 -0800</pubDate>
+    <lastBuildDate>Fri, 16 Jan 2015 10:18:54 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -22,7 +21,7 @@
 
 &lt;p&gt;One of the best ways you can keep your tasks organized is with a &lt;strong&gt;Task Manager App&lt;/strong&gt;. I prefer &lt;a href=&quot;http://wunderlist.com&quot;&gt;Wunderlist&lt;/a&gt; (Free) because it syncs well between all of my devices and other people can be added extremely easily.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://coltonfitzgerald.me/img/posts/subtasks@2x.png&quot; alt=&quot;Wunderlist Sub-tasks&quot; width=&quot;355&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/posts/subtasks@2x.png&quot; alt=&quot;Wunderlist Sub-tasks&quot; width=&quot;355&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;rescue-time-free---linkhttprescuetimecom&quot;&gt;Rescue Time (&lt;em&gt;free&lt;/em&gt;) - &lt;a href=&quot;http://rescuetime.com&quot;&gt;link&lt;/a&gt;&lt;/h3&gt;
 
@@ -41,8 +40,8 @@ It adds an icon to your menu bar so that you can organize all of your menu bar i
 &lt;p&gt;Happy new year everyone! I hope these couple of apps help you out and feel free to comment below if any of them work / don’t work for you :)&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Jan 2015 18:50:01 -0800</pubDate>
-        <link>https://coltonfitzgerald.me/blog/2015/01/01/starting-the-year-off-right.html</link>
-        <guid isPermaLink="true">https://coltonfitzgerald.me/blog/2015/01/01/starting-the-year-off-right.html</guid>
+        <link>/blog/2015/01/01/starting-the-year-off-right.html</link>
+        <guid isPermaLink="true">/blog/2015/01/01/starting-the-year-off-right.html</guid>
         
         
         <category>blog</category>

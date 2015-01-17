@@ -1,0 +1,51 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', '-g', 'bower' ]
+2 info using npm@2.1.18
+3 info using node@v0.10.33
+4 silly cache add args [ 'bower', null ]
+5 verbose cache add spec bower
+6 silly cache add parsed spec { raw: 'bower',
+6 silly cache add   scope: null,
+6 silly cache add   name: 'bower',
+6 silly cache add   rawSpec: '',
+6 silly cache add   spec: '*',
+6 silly cache add   type: 'range' }
+7 verbose addNamed bower@*
+8 silly addNamed semver.valid null
+9 silly addNamed semver.validRange *
+10 silly addNameRange { name: 'bower', range: '*', hasData: false }
+11 silly mapToRegistry name bower
+12 silly mapToRegistry using default registry
+13 silly mapToRegistry registry https://registry.npmjs.org/
+14 silly mapToRegistry uri https://registry.npmjs.org/bower
+15 verbose addNameRange registry:https://registry.npmjs.org/bower not in flight; fetching
+16 verbose request uri https://registry.npmjs.org/bower
+17 verbose request no auth needed
+18 info attempt registry request try #1 at 08:21:30
+19 verbose request id 7ac7e19a07a54e2b
+20 http request GET https://registry.npmjs.org/bower
+21 info retry will retry, error on last attempt: Error: read ECONNRESET
+22 info attempt registry request try #2 at 08:21:43
+23 http request GET https://registry.npmjs.org/bower
+24 info retry will retry, error on last attempt: Error: read ECONNRESET
+25 info attempt registry request try #3 at 08:22:43
+26 http request GET https://registry.npmjs.org/bower
+27 verbose stack Error: read ECONNRESET
+27 verbose stack     at errnoException (net.js:904:11)
+27 verbose stack     at TCP.onread (net.js:558:19)
+28 verbose cwd /Users/coltonfitzgerald/Documents/Sites/portfolio
+29 error Darwin 14.0.0
+30 error argv "node" "/usr/local/bin/npm" "install" "-g" "bower"
+31 error node v0.10.33
+32 error npm  v2.1.18
+33 error code ECONNRESET
+34 error errno ECONNRESET
+35 error syscall read
+36 error network read ECONNRESET
+36 error network This is most likely not a problem with npm itself
+36 error network and is related to network connectivity.
+36 error network In most cases you are behind a proxy or have bad network settings.
+36 error network
+36 error network If you are behind a proxy, please make sure that the
+36 error network 'proxy' config is set properly.  See: 'npm help config'
+37 verbose exit [ 1, true ]
