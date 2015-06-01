@@ -253,7 +253,7 @@ footer {
     @extend .light;
   }
 	svg {
-		fill: #ffffff;	
+		fill: #ffffff;
 	}
 	.social-media-list {
 		margin-bottom: 0;
@@ -266,7 +266,7 @@ footer {
 			margin-top: 6px;
 			}
 			&.gplus:hover {
-				background-color: #df4a32;	
+				background-color: #df4a32;
 			}
 			&.github:hover {
 				background-color: #333333;
@@ -385,10 +385,10 @@ td, th{
     }
   }
 
-  .active {
+  /*.active {
     @extend .blue.lighten-1;
     @extend .blue-text.lighten-4;
-  }
+  }*/
 
   .secondary-content {
     float: right;

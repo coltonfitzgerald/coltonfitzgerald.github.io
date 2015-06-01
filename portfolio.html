@@ -7,7 +7,7 @@ permalink: /portfolio/
 <div class="portfolio container">
 
   <h1 class="header">Everything I've Made</h1>
-  
+
   <div class="controls">
       <button class="filter waves-effect waves-light btn red darken-4" data-filter="all">All</button>
       <button class="filter waves-effect waves-light btn red darken-4" data-filter=".website">
@@ -34,7 +34,6 @@ permalink: /portfolio/
               </div>
               	{% endif %}
                <div class="card-image">
-               	<a class="card-title black-text">{{ item.title }}</a>
 				   {% if item.image %}
                   <img class="portfolio-img" src="{{ site.url }}{{ item.image }}" alt="{{ item.title }}">
 				   {% endif %} {% if item.video %}
@@ -44,6 +43,7 @@ permalink: /portfolio/
 				   {% endif %}
                </div>
                 <div class="card-action">
+                  <a class="card-title black-text">{{ item.title }}</a><br>
                   <a href="{{ item.finalproject }}">View {% if item.image %}Website{% endif %}{% if item.video %}Video{% endif %}</a>
                 </div>
               </div>
