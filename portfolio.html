@@ -19,10 +19,6 @@ permalink: /portfolio/
   <ul class="portfolio-list row">
     {% for item in site.portfolio %}
         <li class="col s12 m6 l4 mix {{ item.categories }}">
-            <!--<span class="portfolio-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
-            <h2>
-                <a class="portfolio-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
-            </h2>-->
             <div class="card">
 				{% if item.categories == "website" %}
               <div class="browser valign-wrapper">
